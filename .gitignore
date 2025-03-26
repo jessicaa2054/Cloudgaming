@@ -1,0 +1,15 @@
+# Ignore OS-specific files  
+.DS_Store  
+Thumbs.db  
+
+# Ignore dependency directories  
+node_modules/  
+venv/  
+
+# Ignore logs and environment files  
+*.log  
+.env  
+
+# Ignore compiled files  
+*.pyc  
+dist/  
